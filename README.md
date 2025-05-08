@@ -1,2 +1,2 @@
-# thePrimeDetective
+# thePrimeDirective
 Learn Java
